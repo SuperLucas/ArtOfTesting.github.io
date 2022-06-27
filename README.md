@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# ArtOfTesting
 
-You can use the [editor on GitHub](https://github.com/SuperLucas/ArtOfTesting.github.io/edit/Master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 陈之微的学习指南.md
+>说明：持续更新的GIT、Linux、SQL命令，Jmeter、node、Appium等工具安装使用方法，使用Python等语言搭建框架等
 
-### Markdown
+## /Xmind文件夹
+    - 陈之微的学习指南V6-26.xmind
+>说明：记录自己忠于ArtOfTesting的学习指南，关于测试架构养成的笔记心得
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    - /Pic 文件夹
+>说明：基于md文件的图片放置夹
 
-```markdown
-Syntax highlighted code block
+## ArtOfTesting.svg
+>说明：`陈之微的学习指南V6-26.xmind`生产的图片，便于网页查看，更新mind文件就更新一次
 
-# Header 1
-## Header 2
-### Header 3
+## /Files 文件夹
+>说明：基于`陈之微的学习指南.md`的图片放置夹
 
-- Bulleted
-- List
+## 陈之微的学习指南.docx
+>说明：有空才更新的文档，与上面的重复
 
-1. Numbered
-2. List
+## ArtOfTesting.md
+>说明：`陈之微的学习指南V6-26.xmind`生产的文档，便于网页查看，有空才更新
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SuperLucas/ArtOfTesting.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
