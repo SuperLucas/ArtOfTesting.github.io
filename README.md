@@ -5,10 +5,10 @@
 >说明：持续更新的GIT、Linux、SQL命令，Jmeter、node、Appium等工具安装使用方法，使用Python等语言搭建框架等
 
 ## /Xmind文件夹
-    - 陈之微的学习指南V6-26.xmind
+### 陈之微的学习指南V6-26.xmind
 >说明：记录自己忠于ArtOfTesting的学习指南，关于测试架构养成的笔记心得
 
-    - /Pic 文件夹
+### /Pic 文件夹
 >说明：基于md文件的图片放置夹
 
 ## ArtOfTesting.svg
