@@ -4,6 +4,10 @@
 ## 陈之微的学习指南.md
 >说明：持续更新的GIT、Linux、SQL命令，Jmeter、node、Appium等工具安装使用方法，使用Python等语言搭建框架等
 
+>安装包的百度云：\
+链接：https://pan.baidu.com/s/1x8WRHQAofty6lO_9NCR6Sg?pwd=TEST \
+提取码：TEST
+
 ## /Xmind文件夹
 ### 陈之微的学习指南V6-26.xmind
 >说明：记录自己忠于ArtOfTesting的学习指南，关于测试架构养成的笔记心得
