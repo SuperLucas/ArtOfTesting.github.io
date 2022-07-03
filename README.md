@@ -7,4 +7,4 @@
 >https://github.com/SuperLucas/ArtOfTesting.github.io.git
 
 # gitee地址
->https://gitee.com/SuperLucas/ArtOfTesting
+>https://gitee.com/SuperLucas/art-of-testing
