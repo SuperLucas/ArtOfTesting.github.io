@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b4c5085-3064-4c10-9119-d5703520eb01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/binary_search/binary_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/binary_search/binary_search01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/binary_search/items.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/binary_search/test_binary_search.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/01search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/binary_search/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/binary_search/binary_search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,18 +32,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "E:/SuperLucas/ArtOfTesting.github.io/Python项目/PyAlgorithm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;E:/SuperLucas/ArtOfTesting.github.io/Python项目/PyAlgorithm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\SuperLucas\ArtOfTesting.github.io\Python项目\PyAlgorithm\Algorithm\binary_search" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.binary_search">
+  <component name="RunManager" selected="Python.01">
     <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyAlgorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,10 +165,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01" />
         <item itemvalue="Python.binary_search" />
         <item itemvalue="Python tests.Python tests for test_binary_search.TestBinarySearch.test_iterative_binary_search_with_simple_list" />
-        <item itemvalue="Python.01" />
-        <item itemvalue="Python.binary_search01 (1)" />
         <item itemvalue="Python.binary_search01" />
       </list>
     </recent_temporary>

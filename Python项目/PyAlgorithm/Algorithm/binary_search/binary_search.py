@@ -27,6 +27,7 @@ class BinarySearch():
     # Item doesn't exist
     return None
 
+# 递归算法
   def search_recursive(self, list, low, high, item):
     # Check base case 
     if high >= low: 
