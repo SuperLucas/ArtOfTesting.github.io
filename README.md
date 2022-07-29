@@ -4,7 +4,7 @@
 这是关于ArtOfTesting的一些思考与探索。
 
 # github地址
->https://github.com/SuperLucas/ArtOfTesting.github.io.git
+>同Gitee仓库名，仅gitee替换为github即可
 
 # gitee地址
 >https://gitee.com/SuperLucas/ArtOfTesting.github.io.git
