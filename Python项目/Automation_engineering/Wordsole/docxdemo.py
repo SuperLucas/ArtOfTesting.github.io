@@ -3,11 +3,11 @@
 from docx import Document
 import re
 
-doc = Document(r"D:\论文.docx")
-restr = '"(?:[^"])*"'
+doc = Document(r"G:\对联话demo.docx")
+restr = '“(?:[^“])*”'
 
 for p in doc.paragraphs:
     matchRet = re.findall(restr, p.text)
     for r in matchRet:
-        p.text = p.text.replace(r, '“' + r[1:-1] + '”')
-doc.save(r'D:\论文_修正.docx')
+        p.text = p.text.replace(r, '/n' + r[1:-1] + '/n')
+doc.save(r'G:\对联话demo_1.docx')
